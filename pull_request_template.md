@@ -1,13 +1,13 @@
 ## Proposed changes
 
-##Link to Product Tracker
+## Link to Product Tracker
 *This will be a link to the issue you are specifically tasked with resolving.*
 
-##Link to Figma/Zeplin
+## Link to Figma/Zeplin
 
 *This will be a link to the map or design behind the change decisions.*
 
-##Types of changes
+## Types of changes
 
 *What types of changes does your code introduce?*
 
@@ -18,7 +18,7 @@ _Put an `x` in the boxes that apply_
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] Documentation Update (if none of the other choices apply)
 
-##Checklist
+## Checklist
 
 _Put an `x` in the boxes that apply. You can also fill these out after creating the PR.
 
@@ -28,11 +28,11 @@ _Put an `x` in the boxes that apply. You can also fill these out after creating 
 - [ ] I have added necessary documentation (if appropriate)
 - [ ] Any dependent changes have been merged and published in downstream modules
 
-##Further comments
+## Further comments
 
 *If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc...*
 
-##Screenshots if applicable
+## Screenshots if applicable
 
 *Include screenshots in case of UI changes*
 _adding change for demo
